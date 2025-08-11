@@ -1,0 +1,6 @@
+@DiceRoller_Nemetcheck_HostAddress = http://localhost:5117
+
+GET {{DiceRoller_Nemetcheck_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
